@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-scraping-poc",
+  "version": "1.0.0",
+  "description": "Puppeteer Web Scraping Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Web",
+    "Scraping"
+  ],
+  "author": "Gabriel Passos",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
